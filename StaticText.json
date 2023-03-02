@@ -15,6 +15,6 @@
 	"workshopIcon":"https://cdn-icons-png.flaticon.com/512/55/55281.png",
 	"mySchoolIcon":"https://cdn-icons-png.flaticon.com/512/2904/2904826.png",
 	"skillsList":[{"id":"1","skillName":"Communication"},{"id":"2","skillName":"Technology"}],
-	"activitiesList":[{id:"1",skillName:"Coloring"},{id:"2",skillName:"Web Development"}],
-	"modesList":[{id:"1",skillName:"Online"},{id:"2",skillName:"Offline"}]
+	"activitiesList":[{"id":"1","activityName":"Coloring"},{"id":"2","activityName":"Web Development"}],
+	"modesList":[{"id":"1","modeName":"Online"},{"id":"2","modeName":"Offline"}]
 }]
